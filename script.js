@@ -46,7 +46,7 @@ function verificar(){
                 
             }else if(fser.value == "h"|| fser.value == "H"){
                 img.setAttribute('src','img/ass-h.png')
-                autor = '<a href="" target="_blank">autor</a>'
+                autor = '<a href="https://danbooru.donmai.us/posts/4283293" target="_blank">autor</a>'
 
             }
         }else if(tip[1].checked && mid[1].checked){
